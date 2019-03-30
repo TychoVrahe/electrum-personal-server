@@ -3,3 +3,5 @@
 config.cfg
 debug.log
 .cache/
+/build/
+/dist/
